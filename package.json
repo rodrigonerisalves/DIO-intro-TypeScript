@@ -1,0 +1,32 @@
+{
+  "name": "intro_ts_dio",
+  "version": "1.0.0",
+  "description": "Desafios de código da Introdução Prática ao TypeScript da DIO._, ministrado pelo especialista João Santos",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerp86/intro_ts_dio.git"
+  },
+  "keywords": [
+    "dio",
+    "ts",
+    "typescript",
+    "digital innovation one"
+  ],
+  "author": {
+    "name": "JerpDev - José Eduardo Rodrigues Pinto",
+    "email": "jerp.dev@gmail.com",
+    "url": "https://www.linkedin.com/in/jerp/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jerp86/intro_ts_dio/issues"
+  },
+  "homepage": "https://github.com/jerp86/intro_ts_dio#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
