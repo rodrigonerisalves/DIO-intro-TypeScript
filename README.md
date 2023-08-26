@@ -37,6 +37,7 @@ Desafio faz parte do bootcamp Impulso Javascript Evolution, da DIO.
 ## :seedling: Requisitos Mínimos
 
 Node.js
+TypeScript
 
 ## :rocket: Tecnologias Utilizadas
 
